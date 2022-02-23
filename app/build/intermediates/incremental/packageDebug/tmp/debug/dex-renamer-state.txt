@@ -1,0 +1,4 @@
+#Wed Feb 23 15:41:48 GMT+04:00 2022
+base.0=E\:\\android_prog\\PadoruGame\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
